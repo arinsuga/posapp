@@ -1,6 +1,6 @@
-## Welcome to posup
+## Welcome to posapp
 
-PosUp is integrated application from stock, warehouse management, sales and casier developend using Microsoft ASP.NET MVC.
+Posapp is integrated application from stock, warehouse management, sales and casier developend using Microsoft ASP.NET MVC.
 
 ### Features
 1. Product record with barcode system
